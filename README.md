@@ -35,9 +35,11 @@ This project shows how strong the current El Niño is and what past El Niño eve
 | 2. What does it mean for Nigeria? | Rainfall change by city and whether the result is reliable |
 | 3. Nigeria vs the wider Africa | Nigeria compared with Dakar, Nairobi and Harare, plus past strong events |
 
-![Page 1](images/page1_where_is_el_nino_now.png)
-![Page 2](images/page2_nigeria.png)
-![Page 3](images/page3_africa_comparison.png)
+![Page 1: Where is El Niño now?](page1_where_is_el_nino_now.png)
+
+![Page 2: What does it mean for Nigeria?](page2_nigeria.png)
+
+![Page 3: Nigeria vs the wider Africa](page3_africa_comparison.png)
 
 ## Data sources
 
